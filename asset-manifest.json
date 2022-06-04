@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NexIoT/static/css/main.2db51ec9.css",
+    "main.js": "/NexIoT/static/js/main.2dd2c88f.js",
+    "static/js/787.3c8c90fd.chunk.js": "/NexIoT/static/js/787.3c8c90fd.chunk.js",
+    "static/media/404(2).jpg": "/NexIoT/static/media/404(2).dd01f1ac548ad6ae5221.jpg",
+    "static/media/re.webp": "/NexIoT/static/media/re.ddb06c2ed06500db5b58.webp",
+    "index.html": "/NexIoT/index.html",
+    "main.2db51ec9.css.map": "/NexIoT/static/css/main.2db51ec9.css.map",
+    "main.2dd2c88f.js.map": "/NexIoT/static/js/main.2dd2c88f.js.map",
+    "787.3c8c90fd.chunk.js.map": "/NexIoT/static/js/787.3c8c90fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2db51ec9.css",
+    "static/js/main.2dd2c88f.js"
+  ]
+}
