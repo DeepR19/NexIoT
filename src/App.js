@@ -13,7 +13,7 @@ export default function App() {
           
           <Route exact path="/bid" element={<Bid/>}/>
           <Route exact path="/bid/:id" element={<SelectBid/>}/>
-          <Route exact path="/" element={<HomeUI/>}/>
+          <Route exact path="/NexIoT" element={<HomeUI/>}/>
           <Route exact path="/supp" element={<Support/>}/>
          
           <Route path="*" element={<ErrPage/>}/>
