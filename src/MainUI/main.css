@@ -79,6 +79,8 @@ body{
 }
 .header{
     height: 100px;
+    position: absolute;
+    top: 0;
     width: 100%;
     /* background: #0001; */
     display: flex;
